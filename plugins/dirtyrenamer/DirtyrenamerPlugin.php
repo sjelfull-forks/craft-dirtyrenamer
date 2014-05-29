@@ -7,7 +7,7 @@ class DirtyrenamerPlugin extends BasePlugin
         // $config = include
         if (craft()->request->isCpRequest())
         {
-            $vars = include_once('config.php');
+            $vars = include_once('config-example.php');
             $js = "";
             
             foreach($vars as $key => $value){

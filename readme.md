@@ -25,11 +25,24 @@ return array(
 this will select the link to the singles on the entries listing page in the control panel and rename 
 it to "Special Pages"
 
-## How do you know the right selector.
+## Before
+![](http://dl.dropboxusercontent.com/s/jab3gulaj23eelk/2014-05-29%20at%205.14%20pm.png)
 
-Within chrome, simply right click on the element you want to rename and click 
+## After
+![](http://dl.dropboxusercontent.com/s/d0st324idroomp0/2014-05-29%20at%205.17%20pm.png)
+
+## How do you know the right selector?
+
+Within Chrome, simply right click on the element you want to rename and click 
 "inspect element". The console will open with the html node highlighted. Right
 click on the text you wish to replace and select "Copy CSS Path". This will copy the 
 specific path to your clipboard.
 
 ![](http://dl.dropboxusercontent.com/s/zajs72muxi5q1jy/2014-05-29%20at%205.08%20pm.png)
+
+## TODOs
+
+I welcome pull requests.
+
+* add a qualifier for the url
+* store mappings in db and not a config file
