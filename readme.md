@@ -40,9 +40,13 @@ specific path to your clipboard.
 
 ![](http://dl.dropboxusercontent.com/s/zajs72muxi5q1jy/2014-05-29%20at%205.08%20pm.png)
 
+Also check out this cool chrome extension:
+http://selectorgadget.com/
+
 ## TODOs
 
 I welcome pull requests.
 
 * add a qualifier for the url
 * store mappings in db and not a config file
+* UI in control panel to create mappings
