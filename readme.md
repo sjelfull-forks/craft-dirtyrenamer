@@ -32,4 +32,4 @@ Within chrome, simply right click on the element you want to rename and click
 click on the text you wish to replace and select "Copy CSS Path". This will copy the 
 specific path to your clipboard.
 
-![](http://dl.dropboxusercontent.com/s/zajs72muxi5q1jy/2014-05-29%20at%205.08%20pm.png_)
+![](http://dl.dropboxusercontent.com/s/zajs72muxi5q1jy/2014-05-29%20at%205.08%20pm.png)
