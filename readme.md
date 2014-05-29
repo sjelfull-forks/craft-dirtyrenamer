@@ -19,7 +19,7 @@ for example:
 
 ```
 return array(
-  "#sidebar > nav > ul > li:nth-child(2) > a" => "Special Pages" // renames "singles" to "Special Pages"
+  "#sidebar > nav > ul > li:nth-child(2) > a" => "Special Pages"
 );
 ```
 this will select the link to the singles on the entries listing page in the control panel and rename 
